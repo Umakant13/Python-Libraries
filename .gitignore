@@ -1,0 +1,20 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Environment folders
+env/
+venv/
+.venv/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
